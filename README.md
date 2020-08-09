@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=k20Srsf2r7k&list=PLXm-UJjVcJCMd24NIQTPcqHhfnK-QbPmD&index=1
+
 มี 2 branch ครับ
 
 master (default) สำหรับ EP15
